@@ -36,3 +36,7 @@ Release assets only (not committed to git): `paper-cbs-r30-2026-09-27f.tar.gz` a
 ## 2026-09-27g (R31)
 
 Release assets only (not committed to git): `paper-cbs-r31-2026-09-27g.tar.gz` and `paper-cbs-r31-2026-09-27g-evidence.tar.gz`; wording and calibration revision of R30 (no new analyses). SHA-256 in SHA256SUMS.
+
+## 2026-09-27h (R32)
+
+Release assets only (not committed to git): `paper-cbs-r32-2026-09-27h.tar.gz` and `paper-cbs-r32-2026-09-27h-evidence.tar.gz`; corrects the attribution of the sepsis row-random split (author-specified, not a published PhysioNet protocol) and condenses the manuscript. SHA-256 in SHA256SUMS.
