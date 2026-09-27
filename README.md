@@ -40,3 +40,7 @@ Release assets only (not committed to git): `paper-cbs-r31-2026-09-27g.tar.gz` a
 ## 2026-09-27h (R32)
 
 Release assets only (not committed to git): `paper-cbs-r32-2026-09-27h.tar.gz` and `paper-cbs-r32-2026-09-27h-evidence.tar.gz`; corrects the attribution of the sepsis row-random split (author-specified, not a published PhysioNet protocol) and condenses the manuscript. SHA-256 in SHA256SUMS.
+
+## 2026-09-27i (R33)
+
+Release assets only (not committed to git): `paper-cbs-r33-2026-09-27i.tar.gz` and `paper-cbs-r33-2026-09-27i-evidence.tar.gz`; adds an RFC 3161-timestamped audit of 60 public repositories that split the PhysioNet/CinC 2019 table (fetched third-party files are not redistributed; blob SHAs are in fetch_manifest.json). SHA-256 in SHA256SUMS.
