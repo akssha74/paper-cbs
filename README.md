@@ -32,3 +32,7 @@ Release assets only (not committed to git): `paper-cbs-r29-2026-09-27e.tar.gz` a
 ## 2026-09-27f (R30)
 
 Release assets only (not committed to git): `paper-cbs-r30-2026-09-27f.tar.gz` and `paper-cbs-r30-2026-09-27f-evidence.tar.gz`; reports the pre-registered row-random test-split evaluation as the case separating the patient-level audit from row identity, and discloses both CinC 2019 archive analyses (text scan and interface schema check; not scored). SHA-256 in SHA256SUMS.
+
+## 2026-09-27g (R31)
+
+Release assets only (not committed to git): `paper-cbs-r31-2026-09-27g.tar.gz` and `paper-cbs-r31-2026-09-27g-evidence.tar.gz`; wording and calibration revision of R30 (no new analyses). SHA-256 in SHA256SUMS.
