@@ -28,3 +28,7 @@ Release assets only (not committed to git): `paper-cbs-r28-2026-09-27d.tar.gz` a
 ## 2026-09-27e (R29)
 
 Release assets only (not committed to git): `paper-cbs-r29-2026-09-27e.tar.gz` and `paper-cbs-r29-2026-09-27e-evidence.tar.gz`; adds a post hoc name-gate audit of eight independently submitted CinC 2019 source archives (not scored). SHA-256 in SHA256SUMS.
+
+## 2026-09-27f (R30)
+
+Release assets only (not committed to git): `paper-cbs-r30-2026-09-27f.tar.gz` and `paper-cbs-r30-2026-09-27f-evidence.tar.gz`; reports the pre-registered row-random test-split evaluation as the case separating the patient-level audit from row identity, and discloses both CinC 2019 archive analyses (text scan and interface schema check; not scored). SHA-256 in SHA256SUMS.
