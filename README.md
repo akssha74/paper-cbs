@@ -20,3 +20,7 @@ This repository exists so the reviewed files have a public, hash-locked copy. It
 
 - `paper-cbs-r27-2026-09-27c.tar.gz` — manuscript package; now bundles the sepsis raw archive, released holdout predictions, offline sepsis verifier, post hoc sepsis analyses, and FreeTSA certificates for offline token verification.
 - `paper-cbs-r27-2026-09-27c-evidence.tar.gz` — one-shot study directories (sepsis, magnitude-shift DYFI, 2026-Q3 DYFI).
+
+## 2026-09-27d (R28)
+
+Release assets only (not committed to git): `paper-cbs-r28-2026-09-27d.tar.gz` and `paper-cbs-r28-2026-09-27d-evidence.tar.gz`; adds the matched overlap control and ICULOS sensitivity for the sepsis arm. SHA-256 in SHA256SUMS.
