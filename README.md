@@ -56,3 +56,7 @@ Release assets only: `paper-cbs2-r35-2026-09-27k.tar.gz` (reframed manuscript pa
 ## 2026-09-27l (R36)
 
 Release assets: `paper-cbs2-r36-2026-09-27l.tar.gz` (manuscript package), `paper-cbs2-r36-2026-09-27l-evidence.tar.gz` (audit, replayed overlap, learner sensitivity, multi-scale simulation, frozen 2027 plan, earlier arms), and the final `title_page.tex`/`title_page.pdf`, which record this release and therefore post-date the package tarball. Fetched third-party files, snippets, and re-downloadable source archives are not redistributed; their hashes are in the manifests. SHA-256 in SHA256SUMS.
+
+## 2026-09-27m (R37)
+
+Release assets: `paper-cbs2-r37-2026-09-27m.tar.gz`, `paper-cbs2-r37-2026-09-27m-evidence.tar.gz`, and the final `title_page.tex`/`title_page.pdf` (attached after release because they record it). Adds voice-only Parkinsons inflation, within-person sensitivity, and a keyword-rule cross-check. Third-party files, snippets, and re-downloadable archives are not redistributed. SHA-256 in SHA256SUMS.
