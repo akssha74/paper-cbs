@@ -60,3 +60,7 @@ Release assets: `paper-cbs2-r36-2026-09-27l.tar.gz` (manuscript package), `paper
 ## 2026-09-27m (R37)
 
 Release assets: `paper-cbs2-r37-2026-09-27m.tar.gz`, `paper-cbs2-r37-2026-09-27m-evidence.tar.gz`, and the final `title_page.tex`/`title_page.pdf` (attached after release because they record it). Adds voice-only Parkinsons inflation, within-person sensitivity, and a keyword-rule cross-check. Third-party files, snippets, and re-downloadable archives are not redistributed. SHA-256 in SHA256SUMS.
+
+## 2026-09-27n (R38)
+
+Release assets: `paper-cbs2-r38-2026-09-27n.tar.gz`, `paper-cbs2-r38-2026-09-27n-evidence.tar.gz`, and the final `title_page.tex`/`title_page.pdf` (attached after release because they record it). Adds post hoc identity controls, a search-frame replication, latent-class and keyword checks on the coders, a query-token check, coder provenance, errata, and the earlier arms' plans. Third-party files, snippets, and re-downloadable archives are not redistributed. SHA-256 in SHA256SUMS.
