@@ -15,3 +15,8 @@ This repository exists so the reviewed files have a public, hash-locked copy. It
 
 - `paper-cbs-r26-2026-09-27b.tar.gz` — manuscript package including the RFC 3161-timestamped ICU sepsis transfer and both timestamped DYFI windows.
 - `paper-cbs-r26-2026-09-27b-evidence.tar.gz` — one-shot study directories: sepsis (plan, FreeTSA token, runner, hashed PhysioNet/CinC 2019 archive redistributed under ODbL 1.0, results), M4 magnitude-shift DYFI window, 2026-Q3 DYFI window.
+
+## 2026-09-27c (R27)
+
+- `paper-cbs-r27-2026-09-27c.tar.gz` — manuscript package; now bundles the sepsis raw archive, released holdout predictions, offline sepsis verifier, post hoc sepsis analyses, and FreeTSA certificates for offline token verification.
+- `paper-cbs-r27-2026-09-27c-evidence.tar.gz` — one-shot study directories (sepsis, magnitude-shift DYFI, 2026-Q3 DYFI).
