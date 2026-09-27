@@ -48,3 +48,7 @@ Release assets only (not committed to git): `paper-cbs-r33-2026-09-27i.tar.gz` a
 ## 2026-09-27j (R34)
 
 Release assets only (not committed to git): `paper-cbs-r34-2026-09-27j.tar.gz` and `paper-cbs-r34-2026-09-27j-evidence.tar.gz`; adds a post hoc multi-scale (sequence and region) Holm support rule for the prospective DYFI arm. SHA-256 in SHA256SUMS.
+
+## 2026-09-27k (R35, reframed manuscript)
+
+Release assets only: `paper-cbs2-r35-2026-09-27k.tar.gz` (reframed manuscript package) and `paper-cbs2-r35-2026-09-27k-evidence.tar.gz` (pre-registered eight-dataset split audit with RFC 3161 timestamp, both coders' codes, author check, matched inflation; frozen 2027 multi-scale DYFI plan; earlier arms). Fetched third-party repository files, code snippets, and re-downloadable UCI archives are not redistributed; their hashes are in the manifests. The package tarball's title_page.tex/pdf and frozen public-archive record are the only files that change after release, because they record this release's own hash. SHA-256 in SHA256SUMS.
