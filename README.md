@@ -52,3 +52,7 @@ Release assets only (not committed to git): `paper-cbs-r34-2026-09-27j.tar.gz` a
 ## 2026-09-27k (R35, reframed manuscript)
 
 Release assets only: `paper-cbs2-r35-2026-09-27k.tar.gz` (reframed manuscript package) and `paper-cbs2-r35-2026-09-27k-evidence.tar.gz` (pre-registered eight-dataset split audit with RFC 3161 timestamp, both coders' codes, author check, matched inflation; frozen 2027 multi-scale DYFI plan; earlier arms). Fetched third-party repository files, code snippets, and re-downloadable UCI archives are not redistributed; their hashes are in the manifests. The package tarball's title_page.tex/pdf and frozen public-archive record are the only files that change after release, because they record this release's own hash. SHA-256 in SHA256SUMS.
+
+## 2026-09-27l (R36)
+
+Release assets: `paper-cbs2-r36-2026-09-27l.tar.gz` (manuscript package), `paper-cbs2-r36-2026-09-27l-evidence.tar.gz` (audit, replayed overlap, learner sensitivity, multi-scale simulation, frozen 2027 plan, earlier arms), and the final `title_page.tex`/`title_page.pdf`, which record this release and therefore post-date the package tarball. Fetched third-party files, snippets, and re-downloadable source archives are not redistributed; their hashes are in the manifests. SHA-256 in SHA256SUMS.
