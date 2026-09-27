@@ -24,3 +24,7 @@ This repository exists so the reviewed files have a public, hash-locked copy. It
 ## 2026-09-27d (R28)
 
 Release assets only (not committed to git): `paper-cbs-r28-2026-09-27d.tar.gz` and `paper-cbs-r28-2026-09-27d-evidence.tar.gz`; adds the matched overlap control and ICULOS sensitivity for the sepsis arm. SHA-256 in SHA256SUMS.
+
+## 2026-09-27e (R29)
+
+Release assets only (not committed to git): `paper-cbs-r29-2026-09-27e.tar.gz` and `paper-cbs-r29-2026-09-27e-evidence.tar.gz`; adds a post hoc name-gate audit of eight independently submitted CinC 2019 source archives (not scored). SHA-256 in SHA256SUMS.
